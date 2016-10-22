@@ -13,6 +13,10 @@
 1994年に NIFTY-Serve などで公開された、PC-9801用のゲームです。（フリーソフトウェア）
 ![screenshot](http://tomeapp.jp/wp-content/uploads/2015/06/d53184e8132f129ebb5d897848b7404d.png)
 
+**作者ホームページ**
+
+[http://tomeapp.jp/oldsoftwares](http://tomeapp.jp/oldsoftwares)
+
 ## 補足
 psd ファイル付きですので、shoebox というツールを使って fnt ファイルが生成できるはずです。
 （等間隔フォントにするために緑色のレイヤーが入れてありますので、fnt/png ファイル生成後、緑のピクセルは消去してください。
